@@ -26,3 +26,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+ul {
+  list-style: none;
+}
+
+li {
+  width: 300px;
+  margin: 10px auto;
+  background-color: slateblue;
+  color: white;
+  padding: 10px;
+}
